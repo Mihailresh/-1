@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Skypro, где я прохожу обучение по настоящее время. Дополнительно прошел курс "Симулятор SQL" в школе DATA SCIENSE karpov.courses. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Skypro, где я прохожу обучение по настоящее время. Дополнительно прошел курс "Симулятор SQL" в школе DATA SCIENSE karpov.courses. 
 
 - :telescope: Hard skills:
   - Excel для анализа данных (сводные таблицы, Power Query, Power Pivot); 
@@ -22,6 +22,8 @@
   - Стремлюсь к развитию в сфере IT и постоянно повышаю свой уровень, быстро осваиваю новую информацию, системы и инструменты.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-reshetnikovmikhail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_resh)
+
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 ---
 
