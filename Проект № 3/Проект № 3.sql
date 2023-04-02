@@ -3,8 +3,9 @@
 with first_payments as
 (
 select    user_id
-        , min(transaction_datetime::date) first_payment_date
+        , min(date_trunc('day', transaction_datetime)) first_payment_date
 from skyeng_db.payments
+where status_name = 'success' and id_transaction is not null
 group by user_id
 )
 ,
@@ -15,7 +16,7 @@ all_dates as
 (
 select distinct class_end_datetime::date as dt
 from skyeng_db.classes 
-where date_part('year', class_start_datetime::date) = 2016
+where date_trunc('year', class_start_datetime) = '2016-01-01'
 )
 ,
 
@@ -37,9 +38,10 @@ payments_by_dates as
 (
 select    
           user_id
-        , transaction_datetime::date as payment_date
+        , date_trunc('day', transaction_datetime) as payment_date
         , sum(classes) transaction_balance_change
 from skyeng_db.payments
+where status_name = 'success' and id_transaction is not null
 group by 1,2
 )
 ,
@@ -52,10 +54,10 @@ select    b.user_id
         , b.dt
         , transaction_balance_change
         , sum(coalesce(transaction_balance_change, 0))over(partition by b.user_id order by b.dt) transaction_balance_change_cs
-from payments_by_dates a
-join all_dates_by_user b
-on a.user_id = b.user_id 
-and a.payment_date = b.dt
+from all_dates_by_user b 
+left join payments_by_dates a
+        on a.user_id = b.user_id 
+        and a.payment_date = b.dt
 )
 , 
 
@@ -81,10 +83,10 @@ select    b.user_id
         , b.dt
         , classes
         , sum(coalesce(classes, 0))over(partition by b.user_id order by b.dt) classes_cs
-from classes_by_dates a
-join all_dates_by_user b
-on a.user_id = b.user_id 
-and a.class_date = b.dt
+from all_dates_by_user b
+left join classes_by_dates a
+        on a.user_id = b.user_id 
+        and a.class_date = b.dt
 )
 ,
 
@@ -105,17 +107,13 @@ on a.user_id = b.user_id
 and a.dt = b.dt
 )
 
-select *
-from balances
-order by user_id, dt 
-
 select 
           dt 
-        , sum(transaction_balance_change) 
-        , sum(transaction_balance_change_cs)
-        , sum(classes) 
-        , sum(classes_cs) 
-        , sum(balance)
+        , sum(transaction_balance_change) sum_transaction_balance_change
+        , sum(transaction_balance_change_cs) sum_transaction_balance_change_cs
+        , sum(classes) sum_classes 
+        , sum(classes_cs) sum_classes_cs 
+        , sum(balance) sum_balance
 from balances
 group by dt
 order by dt
