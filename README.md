@@ -30,8 +30,8 @@
   <div id="badges">
     </a>
     <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-  <a href="https://instagram.com/gggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gggg" height="30" width="40" /></a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="https://t.me/m_resh" />
+  <a href="https://instagram.com/m_resh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gggg" height="40" width="40" /></a>
     </a>
     <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
