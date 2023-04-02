@@ -109,15 +109,13 @@ select *
 from balances
 order by user_id, dt 
 
-
-
--- select 
---           dt 
---         , sum(transaction_balance_change) 
---         , sum(transaction_balance_change_cs)
---         , sum(classes) 
---         , sum(classes_cs) 
---         , sum(balance)
--- from balances
--- group by dt
--- order by dt
+select 
+          dt 
+        , sum(transaction_balance_change) 
+        , sum(transaction_balance_change_cs)
+        , sum(classes) 
+        , sum(classes_cs) 
+        , sum(balance)
+from balances
+group by dt
+order by dt
