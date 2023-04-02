@@ -7,16 +7,21 @@
 Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Skypro, где я прохожу обучение по настоящее время. Дополнительно прошел курс "Симулятор SQL" в школе DATA SCIENSE karpov.courses. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 - :telescope: Hard skills:
-  - Excel для анализа данных (сводные таблицы, Power Query); 
+  - Excel для анализа данных (сводные таблицы, Power Query, Power Pivot); 
   - SQL (PostgreSQL);
   - Знание основ статистики и теории вероятности;
-  - Power BI для построения отчетов.
+  - Power BI для построения отчетов;
+  - Power Point.
 
-- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
+- :zap: Soft skills:
+  - Обладаю аналитическим складом ума, способен работать с большими объемами данных, внимателен к деталям: умею видеть причинно-следственные связи, выявлять закономерности;
+  - Обладаю развитыми коммуникативными навыками. Легко нахожу продуктивный и комфортный формат общения с коллегами. Готов оказывать поддержку, помощь и делиться опытом;
+  - Способен эффективно работать в условиях срочности и большого количества задач, сохраняя энергию и мотивацию в стрессовых ситуациях;
+  - Быстро обучаюсь и адаптируюсь в новых условиях, легко осваиваю новую информацию, системы и инструменты;
+  - Имею высокий уровень самоорганизации, способен самостоятельно выстроить эффективную работу в личной зоне ответственности;
+  - Стремлюсь к развитию в сфере IT и постоянно повышаю свой уровень, быстро осваиваю новую информацию, системы и инструменты.
 
-- :zap: Хочу освоить новую професcию и найти работу.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+  - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
