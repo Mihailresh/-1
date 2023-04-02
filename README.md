@@ -40,25 +40,5 @@
 
 | Курсы                                                                                                    | Дата              |
 | ---------------------------------------------------------------------------------------------------------| :---------------: |
-| https://lab.karpov.courses/live_certificate/00eced24-2255-43ee-bb59-1043c083b225/ "Симулятор SQL"        | 02/2022 - 03/2022 |
-| https://sky.pro/ "Аналитик данных"                                                                       | 02/2022 - 03/2022 |
-
-
----
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+| https://lab.karpov.courses/live_certificate/00eced24-2255-43ee-bb59-1043c083b225/ "Симулятор SQL"        | 12/2022 - 03/2023 |
+| https://sky.pro/ "Аналитик данных"                                                                       | 10/2022 - xx/2023 |
