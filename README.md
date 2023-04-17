@@ -67,4 +67,4 @@
 
 <p> Бизнес метрики</p>
 
-> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на кейс</a>
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Бизнес%20метрики">Ссылка на кейс</a>
