@@ -59,3 +59,12 @@
 <p> Проект 3: Моделирование изменения балансов студентов</p> 
 
 > <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%203">Ссылка на проект</a>
+
+## Другие кейсы
+<p> Когортный анализ</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на проект</a>
+
+<p> Бизнес метрики</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на проект</a>
