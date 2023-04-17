@@ -63,8 +63,8 @@
 ## Другие кейсы
 <p> Когортный анализ</p>
 
-> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на проект</a>
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Когортный%20анализ">Ссылка на кейс</a>
 
 <p> Бизнес метрики</p>
 
-> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на проект</a>
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Проект%20№%201">Ссылка на кейс</a>
