@@ -70,10 +70,31 @@
 > <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Бизнес%20метрики">Ссылка на кейс</a>
 
 ## Другие кейсы SQL
-<p> Когортный анализ</p>
+<p> Экономика продукта. Расчет показателей</p>
 
-> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Когортный%20анализ">Ссылка на кейс</a>
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Экономика%20продукта.%20Расчет%20показателей">Ссылка на кейс</a>
 
-<p> Бизнес метрики</p>
+<p> Retencion</p>
 
-> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Бизнес%20метрики">Ссылка на кейс</a>
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Ретеншн">Ссылка на кейс</a>
+
+<p> Расчет выручки и доли</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Расчет%20выручки%20и%20доли">Ссылка на кейс</a>
+
+<p> ARPU, ARPPU и AOV</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/ARPU%2C%20ARPPU%20и%20AOV">Ссылка на кейс</a>
+
+## Другие кейсы Power BI
+<p> Получение и предобработка данных</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Получение%20и%20предобработка%20данных">Ссылка на кейс</a>
+
+<p> Введение в модели данных на BI</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Введение%20в%20модели%20данных%20на%20BI">Ссылка на кейс</a>
+
+<p> Введение в DAX</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Введение%20в%20DAX">Ссылка на кейс</a>
