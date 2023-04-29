@@ -8,6 +8,8 @@
 
 - :telescope: Hard skills:
   - Excel для анализа данных (сводные таблицы, Power Query, Power Pivot); 
+  - Google sheets;
+  - Google Analytics;
   - SQL (PostgreSQL);
   - Знание основ статистики и теории вероятности;
   - Power BI для построения отчетов;
