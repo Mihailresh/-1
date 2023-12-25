@@ -2,9 +2,14 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне: 
+
 
 Я начинающий аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Skypro, где я прохожу обучение по настоящее время. Дополнительно прошел курс "Симулятор SQL" в школе DATA SCIENSE karpov.courses. В настоящий момент работаю инженером по автоматизации и занимаюсь отчетностью в сфере энергетики, но карьерный рост и заработная плата оставляют желать лучшего 🙄. Практически каждый день оттачиваю свои знания на практике и не останавливаюсь на достигнутом 📈. Поэтому оттачиваю свои hard skills дополнительным курсом "демокурс аналитик данных".
+
+### :computer: Мой стек технологий: 
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" width="150" height="40"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=4479A1" width="150" height="40"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" width="150" height="40"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-black?style=for-the-badge&logo=Microsoft SQL Server&logoColor=CC2927" width="150" height="40"/> <img src="https://img.shields.io/badge/microsoft excel-black?style=for-the-badge&logo=microsoft excel&logoColor=217346" width="150" height="40"/> <img src="https://img.shields.io/badge/redash-black?style=for-the-badge&logo=redash&logoColor=FA8072" width="150" height="40"/> <img src="https://img.shields.io/badge/Metabase-black?style=for-the-badge&logo=Metabase&logoColor=509EE3" width="150" height="40"/> <img src="https://img.shields.io/badge/Power BI-black?style=for-the-badge&logo=Power BI&logoColor=F2C811" width="150" height="40"/> <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=F37626" width="150" height="40"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=181717" width="150" height="40"/> <img src="https://img.shields.io/badge/redmine-black?style=for-the-badge&logo=redmine&logoColor=B32024" width="150" height="40"/> <img src="https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=Slack&logoColor=4A154B" width="150" height="40"/> 
 
 - :telescope: Hard skills:
   - Python для анализа данных (Pandas, Numpy, Matplotlib, Seaborn);
