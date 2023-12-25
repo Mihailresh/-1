@@ -44,9 +44,11 @@
 
 | Курсы                                                                                                    | Дата              |
 | ---------------------------------------------------------------------------------------------------------| :---------------: |
-| https://lab.karpov.courses/live_certificate/00eced24-2255-43ee-bb59-1043c083b225/ "Симулятор SQL"        | 12/2022 - 03/2023 |
-| https://sky.pro/ "Аналитик данных"                                                                       | 10/2022 - xx/2023 |
-| https://lab.karpov.courses/ "демокурс аналитик данных"                                                   | 04/2023 - xx/2023 |
+| https://drive.google.com/file/d/1CIB0sFFlnUl9n8cGOXfR9kAzsuWKh5Vh/view?usp=sharing "Симулятор SQL"       | 12/2022 - 03/2023 |
+| https://sky.pro/ "Аналитик данных"                                                                       | 10/2022 - 07/2023 |
+| https://lab.karpov.courses/ "Аналитик данных"                                                            | 12/2023 - xx/2023 |
+| https://drive.google.com/file/d/1FldlQOoDf_g-W0wuSJnFJz2d1_b_GJ-Q/view?usp=sharing "SQL"                 | 12/2023 - 12/2023 |
+| https://drive.google.com/file/d/1Dg8lHo-PxnVks5n14hh3XnSxP6YdeFbV/view?usp=sharing "Power BI"            | 12/2023 - 12/2023 |
 
 ---
 
