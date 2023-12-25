@@ -103,3 +103,8 @@
 <p> Введение в DAX</p>
 
 > <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Введение%20в%20DAX">Ссылка на кейс</a>
+
+<p> Отчеты в Power BI</p>
+
+> <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Отчеты%20Power%20BI">Ссылка на кейс</a>
+
