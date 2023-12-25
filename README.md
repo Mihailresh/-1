@@ -84,7 +84,7 @@
 
 > <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Экономика%20продукта.%20Расчет%20показателей">Ссылка на кейс</a>
 
-<p> Retencion</p>
+<p> Retention</p>
 
 > <a href="https://github.com/Mihailresh/Data-Analyst-portfolio/tree/main/Ретеншн">Ссылка на кейс</a>
 
