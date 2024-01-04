@@ -28,7 +28,7 @@
   - Имею высокий уровень самоорганизации, способен самостоятельно выстроить эффективную работу в личной зоне ответственности;
   - Стремлюсь к развитию в сфере IT и постоянно повышаю свой уровень, быстро осваиваю новую информацию, системы и инструменты.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-reshetnikovmikhail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_resh)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-reshetnikovmikhail-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_resh99)
 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
